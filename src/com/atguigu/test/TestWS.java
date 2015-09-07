@@ -13,6 +13,5 @@ public class TestWS {
 		Endpoint.publish(address, new HelloWorldWSImpl());
 		
 		System.out.println("发布成功！");
-		System.out.println("发布成功！");
 	}
 }
